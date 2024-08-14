@@ -1,0 +1,50 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
+<h1 align="center">Hello 👋 I am Juan Romero</strong> ✨ </h1>
+
+# WhoAmI
+
+```java
+
+public class WhoAmI {
+    // Propiedades de la clase
+    private String user = "Juan Romero";
+    private String college = "UTN FRGP";
+    private String technology = "Spring Framework - T-SQL";
+
+    // Lista de hobbies
+    private List<String> hobbies = Arrays.asList(
+        "Music",
+        "Chilling",
+        "Gaming",
+        "Cooking"
+    );
+
+    // Métodos para obtener información adicional
+    public String getCity() {
+        return "San Fernando, Buenos Aires, Argentina";
+    }
+
+    public String getAmbition() {
+        return "Become Software Engineer";
+    }
+<br>
+<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="center">
+  <h2>:star2: Front End</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,bootstrap,react,npm,regex&perline=6" />
+  </a>
+
+  <h2>:zap: Back End</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,eclipse,maven,mysql,postgres,sqlserver,sqlite&perline=6" />
+  </a>
+
+  <h2>:wrench: Tools</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,git,github&perline=6" />
+  </a>
+</p>
+<br>
