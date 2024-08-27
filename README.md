@@ -8,6 +8,7 @@ public class WhoAmI {
 
     private String user = "Juan Romero";
     private String college = "UTN FRGP";
+    private String email = "juanromero1720@gmail.com";
     private String technology = "Spring Framework - T-SQL";
 
     private List<String> hobbies = Arrays.asList(
